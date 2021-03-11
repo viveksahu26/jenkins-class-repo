@@ -5,5 +5,5 @@ echo "**************************"
 for((i=0;i<5;i++)); do cal; done
 echo "Print 5 times date"
 echo "**************************"
-for((i=0;i<5;i++)); do date; done
+for((i=0;i<5;i++)) do date; done
 echo "bye"
