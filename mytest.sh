@@ -12,5 +12,5 @@ for((i=0;i<5;i++)); do date; done
 echo "*********************************************************************************"
 echo "bye"
 echo "who am I ?? `whoami`"
-echo "Pth is : `pwd`"
+echo "Path is : `pwd`"
 echo " **************** BYEEeeeeeeeeeeeeeeeeeeeee ***************************************"
