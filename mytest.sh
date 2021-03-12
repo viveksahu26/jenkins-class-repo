@@ -1,4 +1,5 @@
 
+echo "********************************* WELCOME !!************************************"
 echo "This was a first practical of Jenkins"
 echo "To run shell script commands"
 echo "Print 5 times calender"
